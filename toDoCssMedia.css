@@ -1,0 +1,47 @@
+@media (max-width: 640px) {
+  .main-heading {
+    width: 50%;
+  }
+  .container {
+    display: block;
+    width: 95%;
+  }
+  h1 {
+    font-size: 5vw;
+  }
+  .todo {
+    height: 40vw;
+    margin-bottom: 2vw;
+  }
+  .note-todo {
+    font-size: 3vw;
+  }
+  .button-done-del {
+    width: 6vw;
+  }
+  .pic-done-delete {
+    width: 100%;
+  }
+  .inprogress {
+    height: 40vw;
+    margin-bottom: 2vw;
+  }
+  .done {
+    height: 40vw;
+  }
+  .dpin {
+    display: none;
+  }
+  .input-data {
+    height: 20vw;
+  }
+  .input-data-text {
+    width: 30vw;
+    font-size: 2vw;
+  }
+  .add {
+    width: 10vw;
+    height: 10vw;
+    font-size: 4vw;
+  }
+}
